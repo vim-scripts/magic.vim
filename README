@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1524
+
+This script provides syntax highlighting for magic definitions of the file utility.  The highlighting is strict, everything non-matching is marked as an error (please report problems).
